@@ -1,6 +1,6 @@
 {
   "name": "tcetx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TCETX command line tool",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["tcetx", "cli", "command"],
+  "keywords": [
+    "tcetx",
+    "cli",
+    "command"
+  ],
   "author": "your-name",
   "license": "MIT"
 }
