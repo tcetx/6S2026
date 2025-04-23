@@ -15,5 +15,12 @@
     "command"
   ],
   "author": "your-name",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "colorette": "^2.0.20",
+    "colors": "^1.4.0",
+    "figlet": "^1.8.1",
+    "kleur": "^4.1.5"
+  }
 }

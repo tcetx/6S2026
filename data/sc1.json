@@ -1,0 +1,9 @@
+{
+    "name": "Experiment 1 - Software Classification",
+    "aim": "To classify software systems...",
+    "objective": "Understand types of software...",
+    "theory": "Software is classified into various types, such as...",
+    "code": "console.log('Software Classification');",
+    "output": "Software Classification"
+  }
+  
